@@ -1,0 +1,6 @@
+{
+  "name": "@shirtcode-ui/eslint-config",
+  "license": "ISC",
+  "private": "true",
+  "main": "index.js"
+}
