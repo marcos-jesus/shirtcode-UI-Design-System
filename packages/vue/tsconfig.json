@@ -1,0 +1,4 @@
+{
+  "extends": "@shirtcode-ui/ts-config/vue.json",
+  "include": ["src"]
+}
