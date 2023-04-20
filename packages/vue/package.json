@@ -1,5 +1,5 @@
 {
-  "name": "@shirtcode-ui/tokens",
+  "name": "@shirtcode-ui/vue",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@shirtcode-ui/tokens": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
   }
