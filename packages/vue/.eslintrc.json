@@ -1,0 +1,3 @@
+{
+  "extends": "@shirtcode-ui/eslint-config"
+}
